@@ -2,7 +2,13 @@
 # 🏜️ Offroad Semantic Scene Segmentation — Team [0]
 
 [Prototype Link:](https://offroadvisionai.netlify.app/)
+
+
+
 [LinkedIn Link:](https://www.linkedin.com/in/m-saad-m-sadik-shaikh-4263b0371?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+
 [YOLO_Hackathon_Team0_BRAND_NEW(1).pptx](https://github.com/user-attachments/files/26507635/YOLO_Hackathon_Team0_BRAND_NEW.1.pptx)
 
 > **YOLO Hackathon 2026** · VIT Kondhwa, Pune · Organized by 23ventures 
